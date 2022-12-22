@@ -9,7 +9,7 @@
 - 🔭 I study computer enginneering @ Universidade de Pernambuco  
   
 
-- 🌱 I’m currently developing my Full Stack skills  
+- 🌱 I’m currently learning TypeScript 
   
 
 - 👩‍💻I'm always looking forward to learn new stuff  
