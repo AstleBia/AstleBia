@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Bia Astle, a Computer Enginneering student and Front-end Developer!</div>  
+### <div align="center">:wave:Hi!! I'm Bia Astle, a Computer Enginneering student and Front-end Developer!</div>  
   
 
 - 🔭 I study computer enginneering @ Universidade de Pernambuco  
