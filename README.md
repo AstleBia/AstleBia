@@ -40,6 +40,8 @@
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   
   
+  <br/>
+  
 ## :iphone:Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/anabeatrizastle" target="_blank">
