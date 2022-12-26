@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+a+Full-stack+developer;Always+learning+something+new)](https://git.io/typing-svg)
 
+
+## **:ghost: About me**
+
 - 🔭 I study computer enginneering @ Universidade de Pernambuco  
   
 
@@ -29,7 +32,6 @@
   ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
   ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
