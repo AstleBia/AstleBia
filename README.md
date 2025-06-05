@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo Bia!
 
 ## 💫 Sobre Mim:
-💻 Desenvolvedora Backend<br>🌱 No momento estou estudando Django e FastAPI<br>🚀 Sempre buscando aprender algo novo!<br>⚡ Fun fact: Programo melhor quando estou ouvindo Childish Gambino
+💻 Desenvolvedora Backend<br>🌱 No momento estou estudando Golang<br>🚀 Sempre buscando aprender algo novo!<br>⚡ Fun fact: Programo melhor quando estou ouvindo Childish Gambino
 
 
 ## 💻 Tech Stack:
