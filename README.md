@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo Bia!
 
 ## 💫 Sobre Mim:
-💻 Desenvolvedora Backend<br>🌱 No momento estou estudando SpringBoot<br>🚀 Sempre buscando aprender algo novo!<br>⚡ Fun fact: Programo melhor quando estou ouvindo Childish Gambino
+💻 Desenvolvedora Backend<br>🌱 No momento estou estudando Spring Boot<br>🚀 Sempre buscando aprender algo novo!<br>⚡ Fun fact: Programo melhor quando estou ouvindo Childish Gambino
 
 
 ## 💻 Tech Stack:
